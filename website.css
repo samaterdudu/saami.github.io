@@ -1,0 +1,72 @@
+form{
+    box-shadow: 5px 10px 20px;
+    text-align: center;
+    border-radius: 20px 20px;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    height: 400px;
+    float: right;
+    color: white;
+    border: blanchedalmond solid;
+}
+h1{
+    text-align: center;
+    color:red;
+    position: sticky;
+    top: 0;
+}
+.center ,h4{
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+    color: white;
+}
+footer{
+    text-align: center;
+    color: black;
+}
+body{
+    background-image: url(anime.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+input{
+    border-radius: 20px;
+}
+.login
+{
+    font-size: 30px;
+    color: red;
+}
+.lgn{
+    width: 90px;
+    border-radius: 40px;
+}
+.lgn:hover{
+    background-color:brown;
+}
+.navbar li{
+    display: inline;
+    background-color: transparent;
+    padding: 5px;
+   color: black;
+   overflow: hidden;
+list-style-type: none;
+margin: 1px;
+box-sizing: border-box;
+top: 3px;
+right: 10px;
+border-bottom: 2px black solid;
+
+}
+.navbar li:hover{
+    background-color: gray;
+    color: black;
+    }
+    li a{
+        color: white;
+        text-decoration: none;
+        padding: 14px 16px;
+    }
